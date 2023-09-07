@@ -1,0 +1,5 @@
+{{#user}}
+Name: Alapan
+Skills: HTML, CSS, JS, Next.js, React Js
+Email: kalx.alapankar.1748395@gmail.com
+{{/user}}
